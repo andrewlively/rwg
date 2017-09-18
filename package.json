@@ -1,0 +1,24 @@
+{
+  "name": "rwg",
+  "version": "1.0.0",
+  "description": "Flexible random word generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewlively/rwg.git"
+  },
+  "author": "Andrew Lively <andrew@lively.software>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewlively/rwg/issues"
+  },
+  "homepage": "https://github.com/andrewlively/rwg#readme",
+  "dependencies": {
+    "highland": "^2.11.1",
+    "unique-random-array": "^1.0.0",
+    "word-list": "^2.0.0"
+  }
+}
